@@ -1,6 +1,6 @@
 # psicore-binaries
 
-This repo contains custom binaries that support the usual psiphon protocols plus new custom protocols used by NapsternetV i.e.
+This repo contains custom binaries that support the usual psiphon protocols plus new custom protocols used by [NapsternetV](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv) i.e.
 1. *UNFRONTED-WS-OSSH*
 1. *UNFRONTED-WSS-OSSH*
 1. *FRONTED-WS-OSSH*
