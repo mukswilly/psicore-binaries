@@ -11,4 +11,4 @@ These custom protocols use OSSH (Obfuscated SSH) over websocket. Websocket may b
 ### NOTE: 
 The custom protocols are only supported by the [NapsternetV android app](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv) and binaries from this repo.
 
-The psiphond server binary which supports these custom protocols can be located in the [psiphond directory](/psiphond)
+The psiphond server binary which supports these custom protocols can be got [here](/psiphond/psiphond)
